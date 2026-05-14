@@ -1,7 +1,7 @@
 # Ecommerce Logistics Optimization: Profit Recovery Analysis
 
 <p align="center">
-  <img src="your-dashboard-screenshot-link.png" alt="Logistics Dashboard" width="800">
+  <img src="[your-dashboard-screenshot-link](https://drive.google.com/file/d/1kQ-SusKevgatn8UL0P2RB24EJn61dffR/view?usp=drive_link).png" alt="Logistics Dashboard" width="800">
 </p>
 
 ## Project Overview
