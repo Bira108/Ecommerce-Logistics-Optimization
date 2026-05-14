@@ -1,0 +1,110 @@
+Order State,State,Region
+AE,AE,Other
+AK,AK,Other
+AL,AL,East
+ALABAMA,AL,East
+ALASKA,AK,Other
+AR,AR,Central
+ARIZONA,AZ,West
+ARKANSAS,AR,Central
+AZ,AZ,West
+CA,CA,West
+CA.,CA,West
+CALIFORNIA,CA,West
+CO,CO,Central
+COLORADO,CO,Central
+CONNECTICUT,CT,East
+CT,CT,East
+DC,DC,East
+DE,DE,East
+DELAWARE,DE,East
+DISTRICT OF COLUMBIA,DC,East
+FL,FL,East
+FLORIDA,FL,East
+GA,GA,East
+GEORGIA,GA,East
+HAWAII,HI,Other
+HI,HI,Other
+IA,IA,Central
+ID,ID,West
+IDAHO,ID,West
+IL,IL,Central
+ILLINOIS,IL,Central
+IN,IN,Central
+IN.,IN,Central
+INDIANA,IN,Central
+IOWA,IA,Central
+KANSAS,KS,Central
+KENTUCKY,KY,Central
+KS,KS,Central
+KY,KY,Central
+KY.,KY,Central
+LA,LA,Central
+LOUISIANA,LA,Central
+MA,MA,East
+MAINE,ME,East
+MARYLAND,MD,East
+MASSACHUSETTS,MA,East
+MD,MD,East
+ME,ME,East
+MI,MI,Central
+MICHIGAN,MI,Central
+MINNESOTA,MN,Central
+MISSOURI,MO,Central
+MN,MN,Central
+MO,MO,Central
+MONTANA,MT,West
+MS,MS,Central
+MT,MT,West
+N.C.,NC,East
+N.Y.,NY,East
+NC,NC,East
+ND,ND,Central
+NE,NE,Central
+NEBRASKA,NE,Central
+NEVADA,NV,West
+NEW HAMPSHIRE,NH,East
+NEW JERSEY,NJ,East
+NEW MEXICO,NM,West
+NEW YORK,NY,East
+NH,NH,East
+NJ,NJ,East
+NM,NM,West
+NORTH CAROLINA,NC,East
+NV,NV,West
+NY,NY,East
+OH,OH,Central
+OHIO,OH,Central
+OK,OK,Central
+OKLAHOMA,OK,Central
+OR,OR,West
+OREGON,OR,West
+PA,PA,East
+PA.,PA,East
+PENNSYLVANIA,PA,East
+PR,PR,Other
+PUERTO  RICO,PR,Other
+PUERTO RICO,PR,Other
+RHODE ISLAND,RI,East
+RI,RI,East
+SC,SC,East
+SD,SD,Central
+SOUTH CAROLINA,SC,East
+TENNESSEE,TN,East
+TEXAS,TX,Central
+TN,TN,Central
+TX,TX,Central
+USVI,VI,Other
+UT,UT,West
+UTAH,UT,West
+VA,VA,East
+VA.,VA,East
+VIRGINIA,VA,East
+VT,VT,East
+WA,WA,West
+WASHINGTON,WA,West
+WEST VIRGINIA,WV,East
+WI,WI,Central
+WISCONSIN,WI,Central
+WV,WV,East
+WY,WY,West
