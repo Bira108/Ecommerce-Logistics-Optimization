@@ -1,6 +1,6 @@
 # Ecommerce Logistics Optimization: Profit Recovery Analysis
 
-<img width="1365" height="719" alt="Ecommerce Profit Recovery" src="https://github.com/user-attachments/assets/138808c0-8635-4684-b9db-62204a15a2eb" />
+<img width="800" height="850" alt="Ecommerce Profit Recovery" src="https://github.com/user-attachments/assets/138808c0-8635-4684-b9db-62204a15a2eb" />
 
 <p align="center">
 
