@@ -51,8 +51,8 @@ Based on the data, I recommend a transition to the **Hypothesis Shipping Model**
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I am a Data Analyst focused on turning complex datasets into actionable business strategies. 
 Feel free to reach out for collaboration or questions!
 
-[LinkedIn](YOUR_LINK_HERE) | [Portfolio](YOUR_LINK_HERE)
+[LinkedIn](https://www.linkedin.com/in/ubiratan-gonzaga/) | [Portfolio](YOUR_LINK_HERE)
